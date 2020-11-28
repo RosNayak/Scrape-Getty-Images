@@ -1,1 +1,1 @@
-# Scrape-Getty-Images
+# Scrapy-Getty-Images
